@@ -13,7 +13,7 @@ A simple and beginner-friendly Student Management System built with React.js. Th
 ## Demo Credentials
 
 **Student Login:**
-- Username: `john`
+- Username: `aabir`
 - Password: `123`
 
 **Parent Login:**
