@@ -23,4 +23,4 @@ A simple and beginner-friendly Student Management System built with React.js. Th
 ## Installation
 
 1. Clone the repository:
-```bash
+git clone https://github.com/aabirbhowmik/studentManagementSystem
